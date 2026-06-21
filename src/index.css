@@ -1,0 +1,4 @@
+/* index.css - this is where Tailwind injects all its generated styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
